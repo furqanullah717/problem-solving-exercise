@@ -13,4 +13,10 @@ public class MaxCounterTest {
         int [] expected =  {3, 2, 2, 4, 2};
         Assert.assertEquals(Arrays.toString(expected), Arrays.toString(result));
     }
+    @Test
+    public void test2() {
+        int []  result=  testableClass .solution(1,new int[]{1, 1,1});
+        int [] expected =  {3};
+        Assert.assertEquals(Arrays.toString(expected), Arrays.toString(result));
+    }
 }
