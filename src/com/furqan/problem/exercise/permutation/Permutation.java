@@ -1,4 +1,4 @@
-package com.furqan.codility.exercise.permutation;
+package com.furqan.problem.exercise.permutation;
 
 import java.util.Arrays;
 public class Permutation {

@@ -1,4 +1,4 @@
-package com.furqan.codility.exercise.riveronefrog;
+package com.furqan.problem.exercise.riveronefrog;
 
 import org.junit.Assert;
 import org.junit.Test;

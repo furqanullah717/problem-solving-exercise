@@ -1,4 +1,4 @@
-package com.furqan.codility.exercise.missinginteger;
+package com.furqan.problem.exercise.missinginteger;
 
 import org.junit.Assert;
 import org.junit.Test;

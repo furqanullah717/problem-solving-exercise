@@ -1,4 +1,4 @@
-package com.furqan.codility.exercise.maxcounter;
+package com.furqan.problem.exercise.maxcounter;
 
 import org.junit.Assert;
 import org.junit.Test;

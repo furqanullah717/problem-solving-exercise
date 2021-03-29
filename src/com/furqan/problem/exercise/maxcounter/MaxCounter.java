@@ -1,4 +1,4 @@
-package com.furqan.codility.exercise.maxcounter;
+package com.furqan.problem.exercise.maxcounter;
 
 import java.util.Arrays;
 
